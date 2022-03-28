@@ -6,7 +6,7 @@
 * 宋能辉 李娴 译
 * 原书代码Github地址： [https://github.com/ageron/handson-ml2](https://github.com/ageron/handson-ml2)
 * 视频主页：[bilibili]()
-* 代码地址：[Github]() / [Gitee](https://gitee.com/XuXiaoCong/learn-ai.git)
+* 代码地址：[Gitee](https://gitee.com/XuXiaoCong/learn-ai.git) / [Github](https://github.com/xuxiaocong/learn-ai.git)
 
 ## 信息
 * 编写时间：2022/03 ~ 至今
